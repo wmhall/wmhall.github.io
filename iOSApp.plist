@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<!-- this is the dropbox URL of the app (.ipa) file. Get the link to share the .ipa file -->
+					<!-- and then replace "www.dropbox.com" with "dl.dropboxusercontent.com"-->
+					<key>url</key>
+					<string>https://spideroak.com/share/O5UWY3DIMFWGY/app_files/c%3A/Users/Will/Documents/app_download_files/interactions_at_bschool/working%20memory%20app.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<!-- this is a 512-by-512 pixel PNG image that represents the app in iTunes-->
+					<!-- it can be an enlarged version of your display-image-->
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://spideroak.com/share/O5UWY3DIMFWGY/app_files/c%3A/Users/Will/Documents/app_download_files/interactions_at_bschool/iTunesArtwork.png</string>
+				</dict>
+				<dict>
+					<!--This is a 57-by-57 pixel PNG image that represents the app in iTunes -->
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<false/>
+					<key>url</key>
+					<string>https://spideroak.com/share/O5UWY3DIMFWGY/app_files/c%3A/Users/Will/Documents/app_download_files/interactions_at_bschool/Icon.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<!-- your app's bundle identified; this should be identical to the one you specifed in your Xcode project-->
+				<key>bundle-identifier</key>
+				<string>com.working.memory.test</string>
+				<!--Your app's bundle version; this should be identical to the one you specified in your Xcode project -->
+				<key>bundle-version</key>
+				<string>1.0.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<!-- The name of your app, which is displayed during download and installation -->
+				<key>title</key>
+				<string>Interactions at bussiness school</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
