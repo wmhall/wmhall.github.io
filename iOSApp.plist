@@ -47,7 +47,7 @@
 				<string>software</string>
 				<!-- The name of your app, which is displayed during download and installation -->
 				<key>title</key>
-				<string>Interactions at bussiness school</string>
+				<string>Interactions at business school</string>
 			</dict>
 		</dict>
 	</array>
