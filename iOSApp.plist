@@ -13,7 +13,7 @@
 					<!-- this is the dropbox URL of the app (.ipa) file. Get the link to share the .ipa file -->
 					<!-- and then replace "www.dropbox.com" with "dl.dropboxusercontent.com"-->
 					<key>url</key>
-					<string>https://dl.dropboxusercontent.com/s/qkud2sulp53sroc/ios_release.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/qkud2sulp53sroc/ios_rel.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
