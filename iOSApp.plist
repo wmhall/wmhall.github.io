@@ -13,7 +13,7 @@
 					<!-- this is the dropbox URL of the app (.ipa) file. Get the link to share the .ipa file -->
 					<!-- and then replace "www.dropbox.com" with "dl.dropboxusercontent.com"-->
 					<key>url</key>
-					<string>https://spideroak.com/share/O5UWY3DIMFWGY/app_files/c%3A/Users/Will/Documents/app_download_files/interactions_at_bschool/working%20memory%20app.ipa</string>
+					<string>https://dl.dropboxusercontent.com/s/qkud2sulp53sroc/ios_release.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -23,7 +23,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://spideroak.com/share/O5UWY3DIMFWGY/app_files/c%3A/Users/Will/Documents/app_download_files/interactions_at_bschool/iTunesArtwork.png</string>
+					<string>https://dl.dropboxusercontent.com/s/hv310snh9j675le/iTunesArtwork.png</string>
 				</dict>
 				<dict>
 					<!--This is a 57-by-57 pixel PNG image that represents the app in iTunes -->
@@ -32,7 +32,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>https://spideroak.com/share/O5UWY3DIMFWGY/app_files/c%3A/Users/Will/Documents/app_download_files/interactions_at_bschool/Icon.png</string>
+					<string>https://dl.dropboxusercontent.com/s/0li44eyar8710ns/Icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
